@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">theHeroProject</string>
+    <string name="resultado">Resultado:</string>
+    <string name="valor">valor</string>
+    <string name="txt_resultado">TextView</string>
+    <string name="habilidades">Habilidades</string>
+    <string name="nombreheroe">Nombreheroe</string>
+    <string name="nombrecompleto">Nombrecompleto</string>
+    <string name="imgheroe">imgheroe</string>
+</resources>
